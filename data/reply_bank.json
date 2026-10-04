@@ -1,0 +1,282 @@
+[
+    {
+        "text": "નમસ્તે",
+        "class_id": 102,
+        "class_name": "Cultural Greeting"
+    },
+    {
+        "text": "જય શ્રી કૃષ્ણ",
+        "class_id": 102,
+        "class_name": "Cultural Greeting"
+    },
+    {
+        "text": "શુભ સવાર",
+        "class_id": 101,
+        "class_name": "Time-based Greeting"
+    },
+    {
+        "text": "શુભ સાંજ",
+        "class_id": 101,
+        "class_name": "Time-based Greeting"
+    },
+    {
+        "text": "ખૂબ ખૂબ આભાર",
+        "class_id": 2,
+        "class_name": "Gratitude & Closing"
+    },
+    {
+        "text": "કોઈ વાંધો નહીં",
+        "class_id": 2,
+        "class_name": "Gratitude & Closing"
+    },
+    {
+        "text": "આવજો",
+        "class_id": 2,
+        "class_name": "Gratitude & Closing"
+    },
+    {
+        "text": "ધ્યાન રાખજો",
+        "class_id": 2,
+        "class_name": "Gratitude & Closing"
+    },
+    {
+        "text": "બરાબર છે",
+        "class_id": 301,
+        "class_name": "Neutral Reaction"
+    },
+    {
+        "text": "ઓકે, સમજાઈ ગયું",
+        "class_id": 301,
+        "class_name": "Neutral Reaction"
+    },
+    {
+        "text": "હમ્મ",
+        "class_id": 301,
+        "class_name": "Neutral Reaction"
+    },
+    {
+        "text": "અરે વાહ, ખૂબ સરસ!",
+        "class_id": 302,
+        "class_name": "Positive Reaction"
+    },
+    {
+        "text": "હા, ચોક્કસ",
+        "class_id": 402,
+        "class_name": "Policy Agreement"
+    },
+    {
+        "text": "મને મંજૂર છે",
+        "class_id": 402,
+        "class_name": "Policy Agreement"
+    },
+    {
+        "text": "હા, થઈ જશે",
+        "class_id": 401,
+        "class_name": "Task Affirmation"
+    },
+    {
+        "text": "પાકું",
+        "class_id": 401,
+        "class_name": "Task Affirmation"
+    },
+    {
+        "text": "ના, અત્યારે શક્ય નથી",
+        "class_id": 5,
+        "class_name": "Direct Rejection"
+    },
+    {
+        "text": "મારાથી નહીં થાય",
+        "class_id": 5,
+        "class_name": "Direct Rejection"
+    },
+    {
+        "text": "ના, આ વખતે રહેવા દો",
+        "class_id": 5,
+        "class_name": "Direct Rejection"
+    },
+    {
+        "text": "જો સમય મળશે તો ચોક્કસ",
+        "class_id": 6,
+        "class_name": "Conditional Agreement"
+    },
+    {
+        "text": "તમે કહો તો કરી લઈએ",
+        "class_id": 6,
+        "class_name": "Conditional Agreement"
+    },
+    {
+        "text": "હું પ્રયત્ન કરીશ, પણ ખાતરી નથી",
+        "class_id": 6,
+        "class_name": "Conditional Agreement"
+    },
+    {
+        "text": "હું વિચારીને જણાવું છું",
+        "class_id": 7,
+        "class_name": "Deferral / Stall"
+    },
+    {
+        "text": "થોડી વાર પછી વાત કરીએ?",
+        "class_id": 7,
+        "class_name": "Deferral / Stall"
+    },
+    {
+        "text": "હું જોઈને અપડેટ આપું",
+        "class_id": 7,
+        "class_name": "Deferral / Stall"
+    },
+    {
+        "text": "તમે ક્યારે ફ્રી છો?",
+        "class_id": 8,
+        "class_name": "Scheduling Inquiry"
+    },
+    {
+        "text": "કયો સમય અનુકૂળ રહેશે?",
+        "class_id": 8,
+        "class_name": "Scheduling Inquiry"
+    },
+    {
+        "text": "કાલે સવારે મળીએ?",
+        "class_id": 8,
+        "class_name": "Scheduling Inquiry"
+    },
+    {
+        "text": "મીટિંગમાં છું, પછી કૉલ કરું",
+        "class_id": 9,
+        "class_name": "Status Broadcast"
+    },
+    {
+        "text": "ડ્રાઇવિંગ કરું છું",
+        "class_id": 9,
+        "class_name": "Status Broadcast"
+    },
+    {
+        "text": "વ્યસ્ત છું, ફ્રી થઈને મેસેજ કરું",
+        "class_id": 9,
+        "class_name": "Status Broadcast"
+    },
+    {
+        "text": "હું રસ્તામાં છું",
+        "class_id": 10,
+        "class_name": "Location & Arrival"
+    },
+    {
+        "text": "5 મિનિટમાં પહોંચું છું",
+        "class_id": 10,
+        "class_name": "Location & Arrival"
+    },
+    {
+        "text": "હું પહોંચી ગયો છું",
+        "class_id": 10,
+        "class_name": "Location & Arrival"
+    },
+    {
+        "text": "મને સમજાયું નહીં, ફરીથી કહેશો?",
+        "class_id": 11,
+        "class_name": "Clarification & Repair"
+    },
+    {
+        "text": "જરા વિગતવાર જણાવો ને",
+        "class_id": 11,
+        "class_name": "Clarification & Repair"
+    },
+    {
+        "text": "ફાઈલ મળી ગઈ છે, આભાર",
+        "class_id": 12,
+        "class_name": "Information & Asset Receipt"
+    },
+    {
+        "text": "વિગતો મળી ગઈ છે, ચકાસી લઉં છું",
+        "class_id": 12,
+        "class_name": "Information & Asset Receipt"
+    },
+    {
+        "text": "મેં જોઈ લીધું છે",
+        "class_id": 12,
+        "class_name": "Information & Asset Receipt"
+    },
+    {
+        "text": "હું હમણાં જ કરી દઉં છું",
+        "class_id": 13,
+        "class_name": "Action Commitment"
+    },
+    {
+        "text": "કામ પૂરું કરીને જણાવું",
+        "class_id": 13,
+        "class_name": "Action Commitment"
+    },
+    {
+        "text": "ચિંતા ન કરો, થઈ જશે",
+        "class_id": 13,
+        "class_name": "Action Commitment"
+    },
+    {
+        "text": "ખૂબ ખૂબ અભિનંદન!",
+        "class_id": 14,
+        "class_name": "Celebration & Congratulation"
+    },
+    {
+        "text": "સફળતા બદલ ખુશી થઈ",
+        "class_id": 14,
+        "class_name": "Celebration & Congratulation"
+    },
+    {
+        "text": "પાર્ટી ક્યારે આપો છો?",
+        "class_id": 1401,
+        "class_name": "Celebratory Tease"
+    },
+    {
+        "text": "માફ કરજો, મોડું થઈ ગયું",
+        "class_id": 1501,
+        "class_name": "Apology"
+    },
+    {
+        "text": "મારી ભૂલ થઈ ગઈ",
+        "class_id": 1502,
+        "class_name": "Mistake Admission"
+    },
+    {
+        "text": "સાંભળીને દુઃખ થયું",
+        "class_id": 1503,
+        "class_name": "Condolence"
+    },
+    {
+        "text": "કેમ છો, મજામાં?",
+        "class_id": 16,
+        "class_name": "Inquiry & Well-being"
+    },
+    {
+        "text": "હવે તબિયત કેવી છે?",
+        "class_id": 16,
+        "class_name": "Inquiry & Well-being"
+    },
+    {
+        "text": "બધું બરાબર તો છે ને?",
+        "class_id": 16,
+        "class_name": "Inquiry & Well-being"
+    },
+    {
+        "text": "હું એકદમ મજામાં છું",
+        "class_id": 1601,
+        "class_name": "Affirmative Status"
+    },
+    {
+        "text": "બસ બધું બરાબર ચાલે છે",
+        "class_id": 1601,
+        "class_name": "Affirmative Status"
+    },
+    {
+        "text": "મને ખબર નથી",
+        "class_id": 17,
+        "class_name": "Uncertainty / Fallback"
+    },
+    {
+        "text": "આ વિશે મને ચોક્કસ ખબર નથી",
+        "class_id": 17,
+        "class_name": "Uncertainty / Fallback"
+    },
+    {
+        "text": "હું ખાતરીપૂર્વક કહી શકતો નથી",
+        "class_id": 17,
+        "class_name": "Uncertainty / Fallback"
+    }
+]

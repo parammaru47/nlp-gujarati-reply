@@ -1,0 +1,75 @@
+/* styles.css */
+.smart-reply-container {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background-color: var(--background-default, #f0f2f5);
+    overflow-x: auto;
+
+    /* Position inside the empty padding we will add to the footer */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    box-sizing: border-box;
+    border: none;
+}
+
+.smart-reply-chip {
+    background-color: #fff;
+    border: none;
+    border-radius: 16px;
+    padding: 8px 16px;
+    font-size: 14px;
+    color: #111b21;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background-color 0.2s, box-shadow 0.2s;
+    font-family: inherit;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+    /* added subtle shadow to compensate for no border */
+}
+
+.smart-reply-chip:hover {
+    background-color: #f5f6f6;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.smart-reply-chip:active {
+    background-color: #e5e5e5;
+}
+
+/* Dark mode support for WhatsApp */
+@media (prefers-color-scheme: dark) {
+    .smart-reply-container {
+        background-color: #202c33;
+    }
+
+    .smart-reply-chip {
+        background-color: #2a3942;
+        color: #d1d7db;
+    }
+
+    .smart-reply-chip:hover {
+        background-color: #374045;
+    }
+}
+
+/* In WhatsApp, the footer is where the input box is. We will make it relative so the absolute container positions correctly */
+.smart-reply-wrapper {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.smart-reply-chip.deflect-chip {
+    background: rgba(220, 53, 69, 0.15);
+    color: #ff6b6b;
+    border: 1px solid rgba(220, 53, 69, 0.3);
+}
+
+.smart-reply-chip.deflect-chip:hover {
+    background: rgba(220, 53, 69, 0.3);
+    color: #ff8787;
+}

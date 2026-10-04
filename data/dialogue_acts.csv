@@ -1,0 +1,217 @@
+message,dialogue_act
+"આવતીકાલે કોલેજ છે?",BINARY_QUESTION
+"કાલે રજા છે?",BINARY_QUESTION
+"આ પ્રોજેક્ટ પૂરું થશે?",BINARY_QUESTION
+"તમે સાંજે આવશો કે નહીં?",BINARY_QUESTION
+"શું આ મંજૂર છે?",BINARY_QUESTION
+"મીટિંગ શરૂ થઈ ગઈ?",BINARY_QUESTION
+"તમે ત્યાં પહોંચી ગયા?",BINARY_QUESTION
+"જમવાનું થઈ ગયું?",BINARY_QUESTION
+"મારો મેસેજ મળ્યો?",BINARY_QUESTION
+"તમે ફ્રી છો?",BINARY_QUESTION
+"મારે આવવાનું છે ગોવા?",BINARY_QUESTION
+"શું હું અંદર આવી શકું?",BINARY_QUESTION
+"મારા માટે સમય છે?",BINARY_QUESTION
+"પૈસા ટ્રાન્સફર કરી દીધા?",BINARY_QUESTION
+"ફોન ચાર્જ થયો?",BINARY_QUESTION
+"બધું બરાબર છે ને?",BINARY_QUESTION
+"તમને આ પસંદ આવ્યું?",BINARY_QUESTION
+"કાલે મળીએ છીએ કે નહીં?",BINARY_QUESTION
+"સાંજે ફોન કરશો ખરા?",BINARY_QUESTION
+"આ સાચું છે?",BINARY_QUESTION
+"આ નંબર સુરક્ષિત છે?",BINARY_QUESTION
+"ઓર્ડર કન્ફર્મ થઈ ગયો?",BINARY_QUESTION
+"પ્રોજેક્ટ સબમિટ થઈ ગયો?",BINARY_QUESTION
+"પેમેન્ટ મળ્યું?",BINARY_QUESTION
+"કેમેરા ચાલુ છે?",BINARY_QUESTION
+"કામ પૂરું થયું કે બાકી છે?",BINARY_QUESTION
+"મારી વાત સંભળાય છે?",BINARY_QUESTION
+"નેટવર્ક આવે છે?",BINARY_QUESTION
+"વાઇફાઇ ચાલુ છે?",BINARY_QUESTION
+"તમારે કોઈ મદદ જોઈએ છે?",BINARY_QUESTION
+"આવતીકાલે રજા મૂકું?",BINARY_QUESTION
+"તમે કાલે ઓફિસ આવવાના છો?",BINARY_QUESTION
+"મહેમાનો આવી ગયા?",BINARY_QUESTION
+"ગાડી મળી ગઈ?",BINARY_QUESTION
+"બેઠક થઈ ગઈ?",BINARY_QUESTION
+"ટિકિટ બુક થઈ ગઈ કે નહીં?",BINARY_QUESTION
+"કોમ્પ્યુટર ચાલુ થાય છે?",BINARY_QUESTION
+"પ્રિન્ટ નીકળી ગઈ?",BINARY_QUESTION
+"શું તમે સાચું કહો છો?",BINARY_QUESTION
+"આપડે ત્યાં જવાનું બાકી છે?",BINARY_QUESTION
+"તૈયારી થઈ ગઈ?",BINARY_QUESTION
+"દવાઓ લઈ લીધી?",BINARY_QUESTION
+"કપડાં ધોવાઈ ગયા?",BINARY_QUESTION
+"શું આ ફાઈલ સેવ થઈ છે?",BINARY_QUESTION
+"એપ્લિકેશન ડાઉનલોડ થઈ ગઈ?",BINARY_QUESTION
+"શું મારે ફોન કરવાનો છે?",BINARY_QUESTION
+"તમને ખબર પડી ગઈ?",BINARY_QUESTION
+"પાસવર્ડ બદલાઈ ગયો?",BINARY_QUESTION
+"ખાતું ખૂલી ગયું?",BINARY_QUESTION
+"આજે કોઈ ઘરે આવવાનું છે?",BINARY_QUESTION
+"ક્યાં મળીશું?",OPEN_INQUIRY
+"પાર્ટી ક્યારે છે?",OPEN_INQUIRY
+"કેટલો સમય લાગશે?",OPEN_INQUIRY
+"તમે ક્યાં છો અત્યારે?",OPEN_INQUIRY
+"મીટિંગ કેટલા વાગ્યે છે?",OPEN_INQUIRY
+"તમારો પ્લાન શું છે?",OPEN_INQUIRY
+"ત્યાં કેવું વાતાવરણ છે?",OPEN_INQUIRY
+"આ કેવી રીતે કરવાનું છે?",OPEN_INQUIRY
+"કોણ કોણ આવવાનું છે?",OPEN_INQUIRY
+"તમે શું કરી રહ્યા છો?",OPEN_INQUIRY
+"સાંજે ક્યાં જવાનું છે?",OPEN_INQUIRY
+"કેટલા પૈસા આપવાના છે?",OPEN_INQUIRY
+"તમે કયા શહેરમાં છો?",OPEN_INQUIRY
+"કઈ તારીખે રિટર્ન આવશો?",OPEN_INQUIRY
+"તમારો મોબાઈલ નંબર શું છે?",OPEN_INQUIRY
+"રિઝલ્ટ ક્યારે આવશે?",OPEN_INQUIRY
+"આપણે ક્યારે મળવાનું નક્કી કર્યું?",OPEN_INQUIRY
+"તમે કયું લેપટોપ વાપરો છો?",OPEN_INQUIRY
+"કેટલા લોકો જમવા આવવાના છે?",OPEN_INQUIRY
+"તમે ક્યાં સુધી ફ્રી થશો?",OPEN_INQUIRY
+"પ્રવાસ માટે શું ખર્ચ થશે?",OPEN_INQUIRY
+"આનો ઉકેલ શું છે?",OPEN_INQUIRY
+"મીટિંગમાં કોને બોલાવ્યા છે?",OPEN_INQUIRY
+"તમારું શું કહેવું છે આ બાબતે?",OPEN_INQUIRY
+"ટ્રેન કેટલા વાગ્યે ઉપડશે?",OPEN_INQUIRY
+"મારે ક્યાં આવવાનું છે?",OPEN_INQUIRY
+"બાકીના લોકો ક્યાં ગયા?",OPEN_INQUIRY
+"અહેવાલ કોણે બનાવ્યો?",OPEN_INQUIRY
+"ઓફિસનું એડ્રેસ શું છે?",OPEN_INQUIRY
+"ઇન્ટરવ્યૂ કેવો રહ્યો?",OPEN_INQUIRY
+"તમે ક્યારે આવવાના છો?",OPEN_INQUIRY
+"કયું પુસ્તક વાંચી રહ્યા છો?",OPEN_INQUIRY
+"આનું કારણ શું છે?",OPEN_INQUIRY
+"મારે કોની સાથે વાત કરવાની છે?",OPEN_INQUIRY
+"કોની બર્થડે છે કાલે?",OPEN_INQUIRY
+"કયા વિષય પર ચર્ચા થઈ?",OPEN_INQUIRY
+"આ જગ્યા ક્યાં આવેલી છે?",OPEN_INQUIRY
+"દુકાન કેટલા વાગ્યે ખુલશે?",OPEN_INQUIRY
+"બસ કેટલી મોડી છે?",OPEN_INQUIRY
+"પેમેન્ટ કઈ રીતે કરવાનું છે?",OPEN_INQUIRY
+"તમારો જન્મદિન ક્યારે આવે છે?",OPEN_INQUIRY
+"કોણે કહ્યું તમને આવું?",OPEN_INQUIRY
+"કેવો લાગ્યો મારો નવો ડ્રેસ?",OPEN_INQUIRY
+"આમાં શું ભૂલ છે?",OPEN_INQUIRY
+"કઈ ફિલ્ડમાં નોકરી ગોતો છો?",OPEN_INQUIRY
+"મારે ક્યાં સહી કરવાની છે?",OPEN_INQUIRY
+"આનો અર્થ શું થાય?",OPEN_INQUIRY
+"પરીક્ષાની તારીખ કઈ છે?",OPEN_INQUIRY
+"કાર્યક્રમ ક્યાં રાખ્યો છે?",OPEN_INQUIRY
+"તમારા મેનેજરનું નામ શું છે?",OPEN_INQUIRY
+"કેમ છો?",WELLBEING_INQUIRY
+"કેમ છે બધું?",WELLBEING_INQUIRY
+"મજામાં, તમે?",WELLBEING_INQUIRY
+"ઘરે બધા કેમ છે?",WELLBEING_INQUIRY
+"તબિયત પાણી કેવા છે?",WELLBEING_INQUIRY
+"હવે તબિયત કેવી છે?",WELLBEING_INQUIRY
+"ઘરમાં બધા મજામાં ને?",WELLBEING_INQUIRY
+"શાંતિ છે ને ભાઈ?",WELLBEING_INQUIRY
+"ઓફિસમાં બધું બરાબર ચાલે છે?",WELLBEING_INQUIRY
+"આરામ કરો છો ને?",WELLBEING_INQUIRY
+"મમ્મી પપ્પા કેમ છે?",WELLBEING_INQUIRY
+"છોકરાઓ કેમ છે?",WELLBEING_INQUIRY
+"આજે કેવું લાગે છે?",WELLBEING_INQUIRY
+"થાકી તો નથી ગયા ને?",WELLBEING_INQUIRY
+"તબિયત સારી છે ને?",WELLBEING_INQUIRY
+"કેવો રહ્યો આજનો દિવસ?",WELLBEING_INQUIRY
+"તમારા સ્વાસ્થ્યનું ધ્યાન રાખો છો ને?",WELLBEING_INQUIRY
+"કામમાંથી નવરાશ મળી કઈ?",WELLBEING_INQUIRY
+"જીવન કેવું ચાલે છે?",WELLBEING_INQUIRY
+"બીજું શું ચાલે છે આજકાલ?",WELLBEING_INQUIRY
+"બધા આનંદમાં છે ને?",WELLBEING_INQUIRY
+"હવે માથું દુખે છે?",WELLBEING_INQUIRY
+"તાવ કેવો છે હવે?",WELLBEING_INQUIRY
+"ગળામાં કેવું છે?",WELLBEING_INQUIRY
+"આંખોમાં બળતરા મટી ગઈ?",WELLBEING_INQUIRY
+"નમસ્તે",SOCIAL_SALUTATION
+"જય શ્રી કૃષ્ણ",SOCIAL_SALUTATION
+"શુભ સવાર",SOCIAL_SALUTATION
+"જય માતાજી",SOCIAL_SALUTATION
+"જય સ્વામિનારાયણ",SOCIAL_SALUTATION
+"શુભ રાત્રિ",SOCIAL_SALUTATION
+"ગુડ મોર્નિંગ",SOCIAL_SALUTATION
+"ગુડ નાઈટ",SOCIAL_SALUTATION
+"હેલ્લો",SOCIAL_SALUTATION
+"કેમ છો મિત્ર",SOCIAL_SALUTATION
+"સુપ્રભાત",SOCIAL_SALUTATION
+"જય જિનેન્દ્ર",SOCIAL_SALUTATION
+"પ્રણામ",SOCIAL_SALUTATION
+"રામ રામ",SOCIAL_SALUTATION
+"હરિ ઓમ",SOCIAL_SALUTATION
+"સીતારામ",SOCIAL_SALUTATION
+"વંદે માતરમ",SOCIAL_SALUTATION
+"કેમ છો સાહેબ",SOCIAL_SALUTATION
+"શુભ સાંજ",SOCIAL_SALUTATION
+"શુભ બપોર",SOCIAL_SALUTATION
+"પાસ થઈ ગયો!",MILESTONE_NEWS
+"નવી ગાડી લીધી",MILESTONE_NEWS
+"નોકરી મળી ગઈ છે",MILESTONE_NEWS
+"પ્રમોશન મળ્યું",MILESTONE_NEWS
+"ઘર લીધું નવું",MILESTONE_NEWS
+"ગ્રેજ્યુએશન પૂરું થઈ ગયું",MILESTONE_NEWS
+"આજે બર્થડે છે મારો",MILESTONE_NEWS
+"પપ્પા બની ગયો",MILESTONE_NEWS
+"સગાઈ થઈ ગઈ મારી",MILESTONE_NEWS
+"નવું લેપટોપ લીધું",MILESTONE_NEWS
+"વિઝા આવી ગયા!",MILESTONE_NEWS
+"ટિકિટ બુક થઈ ગઈ",MILESTONE_NEWS
+"નવી દુકાન ખોલી છે",MILESTONE_NEWS
+"પ્રોજેક્ટ અપ્રુવ થઈ ગયો",MILESTONE_NEWS
+"લગ્ન નક્કી થઈ ગયા",MILESTONE_NEWS
+"એડમિશન મળી ગયું",MILESTONE_NEWS
+"એવોર્ડ મળ્યો આજે",MILESTONE_NEWS
+"ઇન્ટરવ્યૂ પાસ કરી દીધો",MILESTONE_NEWS
+"મારો લેખ છપાયો",MILESTONE_NEWS
+"પરિણામ આવ્યું છે બેસ્ટ",MILESTONE_NEWS
+"બાબો આવ્યો છે ઘરે",MILESTONE_NEWS
+"બાઈક લીધી નવી",MILESTONE_NEWS
+"સ્કોલરશિપ પાસ થઈ ગઈ",MILESTONE_NEWS
+"લોન મંજૂર થઈ ગઈ",MILESTONE_NEWS
+"ગામડે જવા રવાના થયા",MILESTONE_NEWS
+"આ ફાઈલ મોકલી આપો",ACTION_DIRECTIVE
+"જરા વિગતવાર જણાવો ને",ACTION_DIRECTIVE
+"આ કામ જલ્દી કરી દેજે",ACTION_DIRECTIVE
+"મારો ફોટો મોકલી દેજો",ACTION_DIRECTIVE
+"એક ફોન કરી લેજે",ACTION_DIRECTIVE
+"પેમેન્ટ કરી દેજો",ACTION_DIRECTIVE
+"મને લોકેશન મોકલો",ACTION_DIRECTIVE
+"ટિકિટ બુક કરી દેજે",ACTION_DIRECTIVE
+"રીપોર્ટ જમા કરાવી દેજો",ACTION_DIRECTIVE
+"સાંજે ફોન કરો",ACTION_DIRECTIVE
+"મને મેઈલ કરી દેજો",ACTION_DIRECTIVE
+"એક વાર ચેક કરી લેજે",ACTION_DIRECTIVE
+"વહેલા ઘરે આવી જજો",ACTION_DIRECTIVE
+"ફાઈલ અટેચ કરી દેજો",ACTION_DIRECTIVE
+"આનો રિપ્લાય જલ્દી આપો",ACTION_DIRECTIVE
+"અહીયા સહી કરી આપો",ACTION_DIRECTIVE
+"દવાઓ ટાઈમ સર લઈ લેજો",ACTION_DIRECTIVE
+"મને મેસેજ કરી આપો",ACTION_DIRECTIVE
+"મારો નંબર સેવ કરી લેજો",ACTION_DIRECTIVE
+"આ અંગે તપાસ કરજો",ACTION_DIRECTIVE
+"ગાડી સાઈડમાં ઊભી રાખો",ACTION_DIRECTIVE
+"લિંક શેર કરો મારી સાથે",ACTION_DIRECTIVE
+"અંદર આવવા માટે પરવાનગી આપો",ACTION_DIRECTIVE
+"ઓટીપી મોકલી આપો",ACTION_DIRECTIVE
+"અત્યારે ને અત્યારે જવાબ આપો",ACTION_DIRECTIVE
+"મીટિંગનું આયોજન કરો",ACTION_DIRECTIVE
+"આવજો",CLOSING_STATEMENT
+"ફરી મળીશું",CLOSING_STATEMENT
+"ખૂબ ખૂબ આભાર",CLOSING_STATEMENT
+"થેન્ક યુ",CLOSING_STATEMENT
+"પછી વાત કરીએ",CLOSING_STATEMENT
+"ચલો, બાય",CLOSING_STATEMENT
+"મળીએ પછી",CLOSING_STATEMENT
+"રાખું છું અત્યારે",CLOSING_STATEMENT
+"ગુડ બાય",CLOSING_STATEMENT
+"ચલો કાલે મળીએ",CLOSING_STATEMENT
+"તમારો ખૂબ આભાર",CLOSING_STATEMENT
+"કાળજી રાખજો",CLOSING_STATEMENT
+"ટાટા",CLOSING_STATEMENT
+"હવે હું રજા લઉં",CLOSING_STATEMENT
+"જરૂર પડે તો કેજો",CLOSING_STATEMENT
+"શુભ રાત્રી, મળીએ કાલે",CLOSING_STATEMENT
+"પાછા વળતી વાત કરીએ",CLOSING_STATEMENT
+"એકદમ સાચી વાત, રજા આપો હવે",CLOSING_STATEMENT
+"આભાર, તમારો દિવસ શુભ રહે",CLOSING_STATEMENT
+"ચાલો ત્યારે મળીએ",CLOSING_STATEMENT

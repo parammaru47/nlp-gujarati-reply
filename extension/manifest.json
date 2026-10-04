@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "Gujarati Smart Reply",
+    "version": "1.0",
+    "description": "Smart Gujarati reply suggestions for WhatsApp Web and Instagram",
+    "permissions": [
+        "storage"
+    ],
+    "host_permissions": [
+        "http://127.0.0.1:5000/*",
+        "http://localhost:5000/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://web.whatsapp.com/*",
+                "*://www.instagram.com/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "css": [
+                "styles.css"
+            ]
+        }
+    ],
+    "action": {
+        "default_title": "Smart Reply Status"
+    }
+}

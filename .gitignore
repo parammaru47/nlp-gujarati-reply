@@ -1,0 +1,9 @@
+# Datasets
+gu.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Local zips
+*.zip
