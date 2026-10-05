@@ -1,0 +1,1 @@
+Dataset Link: https://huggingface.co/datasets/ai4bharat/IndicCorpV2/blob/main/data/gu.txt
